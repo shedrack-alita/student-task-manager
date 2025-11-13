@@ -2,7 +2,7 @@
 
 A full-stack task management application built with React, Express.js, and MongoDB. Perfect for students to organize their task and stay on top of their work.
 
-![Task Manager Screenshot](https://via.placeholder.com/800x400?text=Task+Manager+Dashboard)
+![Task Manager Screenshot](./screenshot.png)
 
 ## Features
 
