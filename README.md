@@ -83,6 +83,8 @@ To change it, edit `task-backend/config/database.js`
 
 ## API Endpoints
 
+| Method | Endpoint | Description |
+|--------|----------|-------------|
 | GET | `/api/tasks` | Get all tasks |
 | GET | `/api/tasks/:id` | Get a single task |
 | POST | `/api/tasks` | Create a new task |
